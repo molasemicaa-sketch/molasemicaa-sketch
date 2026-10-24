@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mica! <br/><a href="https://github.com/joshmadakor1">IT Professional</a>, <a href="https://www.linkedin.com/in/molase-mica-a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Mica! <br/><a href="https://github.com/joshmadakor1">IT Professional</a>, <a href="https://www.linkedin.com/in/molase-mica-a-a3195b37a?utm_source=share_via&utm_content=profile&utm_medium=member_android">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2> 🛠️ Trouble Shooting Projects:</h2>
 
