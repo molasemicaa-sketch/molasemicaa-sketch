@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Certifications</b> 
-- [seminars and lectures](https://drive.google.com/drive/folders/1OXES9OwMZ_tqxuShYXR5Xn90_iFAgJeE)
+ - [seminars and lectures](https://drive.google.com/drive/folders/1OXES9OwMZ_tqxuShYXR5Xn90_iFAgJeE)
 
 <h2>📺 Popular YouTube Videos</h2>
 
