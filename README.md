@@ -1,5 +1,6 @@
 # Hello World, I'm Mica!
-<a href="[https://linkedin.com](https://www.linkedin.com/in/molase-mica-a-a3195b37a?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/
+molase-micaa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
