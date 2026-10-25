@@ -13,7 +13,7 @@ My experience in Information Technology and Customer service has led me to devel
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Hardware and Network Troubleshooting          | <a href="https://google.com"> IT Support Case Studies </a>|
+| Hardware and Network Troubleshooting          | <a href="https://github.com/molasemicaa-sketch/Windows-IT-support-Case-Studies"> IT Support Case Studies </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
