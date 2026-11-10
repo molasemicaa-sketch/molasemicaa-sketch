@@ -14,7 +14,7 @@ My experience in Information Technology and Customer service has led me to devel
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Hardware and Network Troubleshooting          | <a href="https://github.com/molasemicaa-sketch/Windows-IT-support-Case-Studies"> IT Support Case Studies </a>|
-| Virtualization | <a href="https://google.com">Detection Lab</a>|
+| Virtualization | <a href="https://drive.google.com/drive/folders/1awBPssiAnnah1ZTO_9xbZDXFaXkG6hIN?usp=sharing">System Administration</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
